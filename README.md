@@ -8,3 +8,6 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 
 ## Mental Health
 - Burnout Index Self Assessment - [https://burnoutindex.yerbo.co/](https://burnoutindex.yerbo.co/)
+
+## Load Management
+- Load Management Resources - StanzaSystems - [https://github.com/StanzaSystems/awesome-load-management](https://github.com/StanzaSystems/awesome-load-management)
