@@ -14,5 +14,8 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 
 ## Kubernetes
 
+**Tools**
+- Kubetools - [https://collabnix.github.io/kubetools/](https://collabnix.github.io/kubetools/)
+
 **News & Links**
 - LearnK8s.io - [https://learnk8s.io/news](https://learnk8s.io/news)
