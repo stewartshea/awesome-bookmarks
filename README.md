@@ -14,6 +14,9 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 
 ## Kubernetes
 
+**Learning**
+- Learning Roadmap - [https://github.com/techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+
 **Tools**
 - Kubetools - [https://collabnix.github.io/kubetools/](https://collabnix.github.io/kubetools/)
 
