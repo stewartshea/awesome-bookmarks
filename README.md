@@ -22,3 +22,6 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 
 **News & Links**
 - LearnK8s.io - [https://learnk8s.io/news](https://learnk8s.io/news)
+
+## Video Streaming / Recording
+- Whitescreen Online - Use additional screens as additional lights when recording video - [https://www.whitescreen.online/](https://www.whitescreen.online/)
