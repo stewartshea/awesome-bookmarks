@@ -13,6 +13,8 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 - Load Management Resources - StanzaSystems - [https://github.com/StanzaSystems/awesome-load-management](https://github.com/StanzaSystems/awesome-load-management)
 
 ## Kubernetes
+**Lists of Lists** 
+- awesome-kubernetes-security [https://github.com/ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security)
 
 **Learning**
 - Learning Roadmap - [https://github.com/techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
