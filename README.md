@@ -22,6 +22,9 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 **Tools**
 - Kubetools - [https://collabnix.github.io/kubetools/](https://collabnix.github.io/kubetools/)
 
+**Docs**
+- API Version Management - [https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api_changes.md](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api_changes.md)
+
 **News & Links**
 - LearnK8s.io - [https://learnk8s.io/news](https://learnk8s.io/news)
 
