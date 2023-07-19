@@ -33,3 +33,6 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 
 ## Video Streaming / Recording
 - Whitescreen Online - Use additional screens as additional lights when recording video - [https://www.whitescreen.online/](https://www.whitescreen.online/)
+
+## Content Creation
+- LinkedIn Content Lessions - [https://www.reddit.com/r/Entrepreneur/comments/gqufhl/ive_been_creating_content_on_linkedin_for_15/](https://www.reddit.com/r/Entrepreneur/comments/gqufhl/ive_been_creating_content_on_linkedin_for_15/)
