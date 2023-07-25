@@ -15,6 +15,7 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 ## Kubernetes
 **Lists of Lists** 
 - awesome-kubernetes-security [https://github.com/ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security)
+- tools [https://github.com/tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources)
 
 **Learning**
 - Learning Roadmap - [https://github.com/techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
