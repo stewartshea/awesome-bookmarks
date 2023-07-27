@@ -37,3 +37,6 @@ Just a collection of bookmarks. Often about or in conjunction with tech topics. 
 
 ## Content Creation
 - LinkedIn Content Lessions - [https://www.reddit.com/r/Entrepreneur/comments/gqufhl/ive_been_creating_content_on_linkedin_for_15/](https://www.reddit.com/r/Entrepreneur/comments/gqufhl/ive_been_creating_content_on_linkedin_for_15/)
+
+## Learning Roadmaps
+- Learning roadmap resources: [https://roadmap.sh/](https://roadmap.sh/)
